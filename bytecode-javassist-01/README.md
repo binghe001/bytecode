@@ -1,0 +1,2 @@
+## 字节码编程第一个示例
+详情参见文章《[字节码编程|工作多年的你是否接触过这种技术？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247498023&idx=1&sn=fc208f8ac5423f96e5a8f49589f8f4b4&chksm=cf564e26f821c730b2bab402d24852ca64dc721732031b0f8656f339c91266823951dfc46d53&token=1652827332&lang=zh_CN#rd)》
